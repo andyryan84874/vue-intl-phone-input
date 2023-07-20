@@ -1,10 +1,10 @@
 {
   "name": "vue-intl-phone-input",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "International Telephone Input with Vue",
   "author": "Andy Ryan <andyryan84874@gmail.com>",
   "license": "MIT",
-  "homepage": "https://vue-tel-input.iamstevendao.com",
+  "homepage": "https://github.com/andyryan84874/vue3-tel-input",
   "type": "module",
   "repository": {
     "type": "git",
