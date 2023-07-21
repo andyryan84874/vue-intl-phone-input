@@ -40,7 +40,7 @@
     "react-dom": "^18.2.0",
     "storybook": "^7.0.2",
     "typescript": "^5.0.2",
-    "vite": "^4.2.1",
+    "vite": "^4.4.6",
     "vitepress": "^1.0.0-alpha.65",
     "vue-tsc": "^1.2.0"
   },

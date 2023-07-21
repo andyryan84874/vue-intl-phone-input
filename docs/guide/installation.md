@@ -3,7 +3,7 @@
 ### npm
 
 ```bash
-npm install vue-tel-input
+npm install vue-intl-phone-input
 ```
 
 Install the plugin into Vue:

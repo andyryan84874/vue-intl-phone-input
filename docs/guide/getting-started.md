@@ -3,7 +3,7 @@
 - Install the plugin:
 
   ```sh
-  npm install vue-tel-input
+  npm install vue-intl-phone-input
   ```
 
 - Add the plugin into your app:
@@ -20,7 +20,7 @@
 
   [More info on installation](/guide/installation)
 
-- Use the `vue-tel-input` component:
+- Use the `vue-intl-phone-input` component:
 
   ```html
   <template>

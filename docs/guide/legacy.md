@@ -35,7 +35,7 @@
 ### npm
 
 ```bash
-  npm install vue-tel-input@legacy
+  npm install vue-intl-phone-input@legacy
 ```
 
 Install the plugin into Vue:
@@ -48,7 +48,7 @@ import 'vue-tel-input/dist/vue-tel-input.css';
 Vue.use(VueTelInput, options); // Define default global options here (optional)
 ```
 
-> View all available options in [Props](https://vue-tel-input.iamstevendao.com/usage/props.html).
+> View all available options in [Props](https://andyryan84874.github.io/vue-intl-phone-input/usage/props.html).
 
 Or use the component directly:
 

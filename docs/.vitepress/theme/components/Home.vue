@@ -3,7 +3,7 @@
     <header class="hero vp-doc">
       <img :src="withBase('hero.png')"
            alt="vue-tel-input" />
-      <h1>International Telephone Input with Vue</h1>
+      <h1>International Phone Input with Vue</h1>
     </header>
 
     <section class="description vp-doc">

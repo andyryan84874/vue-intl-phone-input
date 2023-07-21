@@ -22,14 +22,14 @@ International Telephone Input with Vue.
 
 ## Changelog
 
-[Go to Github Releases](https://github.com/iamstevendao/vue-tel-input/releases)
+[Go to Github Releases](https://github.com/andyryan84874/vue-intl-phone-input/releases)
 
 ## Getting started
 
 - Install the plugin:
 
   ```sh
-  npm install vue-tel-input
+  npm install vue-intl-phone-input
   ```
 
 - Add the plugin into your app:
